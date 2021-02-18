@@ -15,7 +15,8 @@ Simple LaserPointer Emulation using Surface-like Pen
 
 ## Installation and Setup
 ### Installation
-Download the Zip-File and extract where you want it.</br>
+Download the Zip File from the latest releases [here](https://github.com/Nero2201/LaserPointer/releases).</br>
+And Extract it where you want to install it. </br>
 <sub>       *Note: LaserPointer.exe has to be in the same directory as the data Folder</sub> </br></br>
 Then you can create a desktop shortcut or startmenu shortcut.
 ### Setup
