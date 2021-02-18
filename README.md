@@ -20,7 +20,7 @@ Download the Zip-File and extract where you want it.</br>
 Then you can create a desktop shortcut or startmenu shortcut.
 ### Setup
 * Open up OneNote for Windows 10
-* Use Snipping tool to make a screenshot of the undo button [Like This]
+* Use Snipping tool to make a screenshot of the undo button [Like This](https://github.com/Nero2201/LaserPointer/wiki/Setup-With-Pictures)
 * Save as undo.png and move it to replace the placeholder in /data
 * ???
 * Profit!
