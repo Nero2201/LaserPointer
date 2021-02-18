@@ -1,2 +1,5 @@
-# LaserPointer
-Simple LaserPointer Emulation for OneNote for Windows 10
+# LaserPointer for OneNote
+Simple LaserPointer Emulation
+
+
+##Instalation
