@@ -1,6 +1,8 @@
 # Pen LaserPointer for OneNote
 Simple LaserPointer Emulation using Surface-like Pen
 
+<b>Disclaimer:</b> this is the first version and still has stomme bugs.
+
 ## Table Of Contents
 
 * [Features](#features)
