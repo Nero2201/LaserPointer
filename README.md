@@ -16,7 +16,7 @@ Simple LaserPointer Emulation using Surface-like Pen
 ## Installation and Setup
 ### Installation
 Download the Zip-File and extract where you want it.</br>
-<sub>       *Note: LaserPointer.exe has to be in the same directory as the data Folder</sub> </br>
+<sub>       *Note: LaserPointer.exe has to be in the same directory as the data Folder</sub> </br></br>
 Then you can create a desktop shortcut or startmenu shortcut.
 ### Setup
 * Open up OneNote for Windows 10
