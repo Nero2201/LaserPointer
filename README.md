@@ -33,6 +33,7 @@ Then you can create a desktop shortcut or startmenu shortcut.
 
 
 ## To-Do
+* <b>BUGFIXES</b>
 * Implement support for Multi-Monitor setups
 * Implement simple mouse pointer support
 * add Hotkey for turning on/off (?)
